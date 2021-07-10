@@ -1,0 +1,179 @@
+#navba-nav{
+    background-color: #171717;
+    float: none;
+    display: inline-block;
+    align: center;
+
+}
+
+#cd{
+    background-color:#171717;
+}
+
+
+#crd1{
+    text-decoration: none;
+    color: #9966ff;
+    background-color:#171717;
+}
+
+#crd2{
+    text-decoration: none;
+    color: #9966ff;
+    background-color:#171717;
+}
+
+#crd3{
+    text-decoration: none;
+    color: #9966ff;
+    background-color:#171717;
+}
+
+#crd4{
+    text-decoration: none;
+    color: #9966ff;
+    background-color:#171717;
+}
+
+a{
+    text-decoration: none;
+    color: #9966ff;
+    background-color:#171717;
+
+}
+/*I added this code to change what links do in general and it worked*/
+
+a:hover, a:active{
+    color: #8800FF;
+}
+
+body{
+background-color: #171717;
+color: #fdf5e6;
+}
+#x1y2 {
+    color: #fdf5e6;
+}
+
+#callToAction{
+color:#fdf5e6;
+background-color: #171717;
+
+}
+
+#vlogocontainer{
+    position: relative;
+    top: 0;
+    left: 33%;
+}
+.vlogo {
+
+    background-color: #171717;
+}
+#svsoffered{
+
+    font-style:underline;
+
+}
+#pic{
+    background-color:#243447;
+    max-height: 50rem;
+    max-width: 25rem;
+}
+
+#meetVickie {
+    box-sizing: border-box;
+    width:100%;
+    height: 100%;
+    background-color:#9966ff;
+}
+
+
+#name {
+    margin: justify;
+    color:#fdf5e6;
+}
+
+#svses{
+    color:#fdf5e6;
+}
+.underline-small{
+    color: #fdf5e6;
+    display:inline-block;
+    position:relative;
+    text-align: justify;
+}
+
+#welcome {
+    color: #fdf5e6;
+}
+
+#seguro {
+    font-style: italic;
+}
+
+
+
+.underline-small::after{
+    content:'';
+    height:2px;
+    width:20%;
+    background: #171717;
+    position:absolute;
+    left:calc(50% - 10%);
+    bottom:0;
+}
+
+#viki{
+    position:absolute;
+    color:#fdf5e6;
+}
+
+
+#ul3 {
+    color: #fdf5e6;
+    font-size: 1rem;
+    background-color:#243447;
+    margin-left: justify;
+
+}
+
+#ul2 {
+    color: #fdf5e6;
+    background-color: #243447;
+    font-size: 1rem;
+    margin-left: justify;
+
+}
+
+#ul1 {
+    color: #fdf5e6;
+    font-size: 1rem;
+    background-color: #243447;
+    margin-left: justify;
+
+}
+#ul4 {
+    background-color: #243447;
+    color:#fdf5e6;
+}
+
+.lmft{
+    position:relative;
+    left: 45%;
+}
+
+#ci{
+    color:#9966ff;
+    position:relative;
+    left: 43%;
+}
+
+.logoA {
+  box-sizing: border-box;
+  max-height: 10rem;
+  max-width: 10rem;
+  font-size: 1rem;
+  color: #42ABC5;
+  background-color: #171717;
+}
