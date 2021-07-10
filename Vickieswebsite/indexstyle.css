@@ -77,7 +77,10 @@ background-color: #171717;
     background-color: #171717;
 }
 #svsoffered{
-    font: italic small-caps times;
+    font-family: times;
+    font-style: italic;
+    font-variant: small-caps;
+    background-color: #171717;
     font-weight: 900;
 
 }
@@ -91,7 +94,11 @@ background-color: #171717;
 }
 
 #seguro {
+    font-family: times;
     font-style: italic;
+    font-variant: small-caps;
+    background-color: #171717;
+    font-weight: 900;
 }
 
 #ul3 {
@@ -131,7 +138,10 @@ background-color: #171717;
     color: white;
     position:relative;
     left: 43%;
-    font: italic small-caps times;
+    font-family: times;
+    font-style: italic;
+    font-variant: small-caps;
+    background-color: #171717;
     font-weight: 900;
 }
 
