@@ -1,15 +1,17 @@
-#navba-nav{
+.card-header{
+    font-family: times;
+    font-style: italic;
+    font-variant: small-caps;
     background-color: #171717;
-    float: none;
-    display: inline-block;
-    align: center;
+    font-weight: 900;
+
 
 }
 
-#cd{
-    background-color:#171717;
+#seguro{
+        font: italic small-caps times;
+        font-weight: 900;
 }
-
 
 #crd1{
     text-decoration: none;
@@ -34,11 +36,12 @@
     color: #9966ff;
     background-color:#171717;
 }
+ without the tags above, the field turns white, even if it is told not to in the a tag*/
 
 a{
     text-decoration: none;
     color: #9966ff;
-    background-color:#171717;
+    background-color:!#171717;
 
 }
 /*I added this code to change what links do in general and it worked*/
@@ -66,20 +69,19 @@ background-color: #171717;
     top: 0;
     left: 33%;
 }
+#ctct {
+
+}
 .vlogo {
 
     background-color: #171717;
 }
 #svsoffered{
-
-    font-style:underline;
+    font: italic small-caps times;
+    font-weight: 900;
 
 }
-#pic{
-    background-color:#243447;
-    max-height: 50rem;
-    max-width: 25rem;
-}
+
 
 #meetVickie {
     box-sizing: border-box;
@@ -88,47 +90,9 @@ background-color: #171717;
     background-color:#9966ff;
 }
 
-
-#name {
-    margin: justify;
-    color:#fdf5e6;
-}
-
-#svses{
-    color:#fdf5e6;
-}
-.underline-small{
-    color: #fdf5e6;
-    display:inline-block;
-    position:relative;
-    text-align: justify;
-}
-
-#welcome {
-    color: #fdf5e6;
-}
-
 #seguro {
     font-style: italic;
 }
-
-
-
-.underline-small::after{
-    content:'';
-    height:2px;
-    width:20%;
-    background: #171717;
-    position:absolute;
-    left:calc(50% - 10%);
-    bottom:0;
-}
-
-#viki{
-    position:absolute;
-    color:#fdf5e6;
-}
-
 
 #ul3 {
     color: #fdf5e6;
@@ -164,9 +128,11 @@ background-color: #171717;
 }
 
 #ci{
-    color:#9966ff;
+    color: white;
     position:relative;
     left: 43%;
+    font: italic small-caps times;
+    font-weight: 900;
 }
 
 .logoA {
